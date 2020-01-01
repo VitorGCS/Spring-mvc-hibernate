@@ -1,4 +1,4 @@
-*target*
+build/*
 # *.jar
 # *.war
 # *.ear
@@ -9,7 +9,7 @@
 .project
 .metadata
 .classpath
-.settings
+.settings/
 .loadpath
 bin/**
 tmp/**
