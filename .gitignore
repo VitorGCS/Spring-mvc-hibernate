@@ -1,14 +1,6 @@
-/build/*
-*.class
-.project
-.metadata
-.classpath
-.settings/
-.loadpath
+build/
+.*
+!/.gitignore
 bin/**
-tmp/**
-tmp/**/*
-*.tmp
-*.bak
 
 /build/
